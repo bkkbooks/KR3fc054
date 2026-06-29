@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc054/tls/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 補修宋奉元術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc054.xml
+hash: sha256:32f8c16059963e6929f5c71fea63a5d4340bfdc6648ac666eb10157edf22a0de

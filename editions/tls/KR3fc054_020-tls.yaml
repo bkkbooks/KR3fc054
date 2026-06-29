@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc054/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中氣後即加各得卦候去經朔日及餘秒步日躔術已下闕步晷漏術步月離術步交會術步五星術
+  hash: sha256:b4870aea021200da631d568b918bc997dd7cb878dfd42cc9e6f15fdd14da49f3
+metadata:
+  title: 補修宋奉元術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc054.xml
+hash: sha256:2218b88f388ffad2b8f5e1c44f0e9aa3f0b60432d6a169795228c3901cca793f
