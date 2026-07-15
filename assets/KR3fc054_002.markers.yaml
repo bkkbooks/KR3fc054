@@ -9,8 +9,11 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KX_3}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc054_tls_001-p1.s4}
   - {type: line-break, offset: 40, content: '', id: KX_4}
+  - {type: substitution, offset: 40, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fc054_tls_001-p1.s5}
   - {type: line-break, offset: 60, content: '', id: KX_5}
+  - {type: substitution, offset: 62, original: 𠊱, replacement: 候, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0190}}
+  - {type: substitution, offset: 77, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: 'tls:seg', offset: 80, content: '', id: KR3fc054_tls_001-p1.s6}
   - {type: line-break, offset: 80, content: '', id: KX_6}
   - {type: 'tls:seg', offset: 100, content: '', id: KR3fc054_tls_001-p1.s7.1}
@@ -23,10 +26,12 @@ markers:
   - {type: line-break, offset: 130, content: '', id: KR3fc054_tls_002-bkklb2}
   - {type: 'tls:seg-end', offset: 131, content: '', id: KR3fc054_tls_001-p1.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3fc054_tls_001-p1.s8.2}
+  - {type: substitution, offset: 145, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 149, content: '', id: KR3fc054_tls_001-p1.s9.1}
   - {type: line-break, offset: 149, content: '', id: KX_9}
   - {type: 'tls:seg-start', offset: 155, content: '', id: KR3fc054_tls_001-p1.s9.2, seg_type: comm, member_ids: [KR3fc054_tls_001-p1.s9.2, KR3fc054_tls_001-p1.s10.1, KR3fc054_tls_001-p1.s12.1, KR3fc054_tls_001-p1.s13.1, KR3fc054_tls_001-p1.s14.1, KR3fc054_tls_001-p1.s15.1, KR3fc054_tls_001-p1.s16.1, KR3fc054_tls_001-p1.s17.1, KR3fc054_tls_001-p1.s18.1]}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fc054_tls_001-p1.s9.2}
+  - {type: substitution, offset: 163, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: line-break, offset: 169, content: '', id: KR3fc054_tls_002-bkklb3}
   - {type: 'tls:seg', offset: 183, content: '', id: KR3fc054_tls_001-p1.s10.1}
   - {type: line-break, offset: 183, content: '', id: KX_10}
@@ -61,9 +66,11 @@ markers:
   - {type: 'tls:seg', offset: 489, content: '', id: KR3fc054_tls_001-p1.s18.4}
   - {type: 'tls:seg', offset: 492, content: '', id: KR3fc054_tls_001-p1.s19}
   - {type: line-break, offset: 492, content: '', id: KX_19}
+  - {type: substitution, offset: 499, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: 'tls:seg', offset: 512, content: '', id: KR3fc054_tls_001-p1.s20}
   - {type: line-break, offset: 512, content: '', id: KX_20}
+  - {type: substitution, offset: 520, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 532, content: '', id: KR3fc054_tls_001-p1.s21}
   - {type: line-break, offset: 532, content: '', id: KX_21}
   back: []
-hash: sha256:aa83b0ae2a3f572b91efe3515201016dbcfdf3343e8962935ad2412daa3d0399
+hash: sha256:9282f2f97274c7658fda4a0867cb51a0258cca03fc07077892f1cf1be17a7174
